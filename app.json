@@ -1,0 +1,17 @@
+{
+  "name": "lifesumapp",
+  "displayName": "lifesumapp",
+  "expo": {
+    "name": "lifesumapp",
+    "slug": "lifesumapp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
